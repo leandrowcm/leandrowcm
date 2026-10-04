@@ -13,6 +13,7 @@ Venho da edição de vídeo e do marketing de performance, onde passei anos faze
 ## Projetos
 
 - [kerberoasting-detection](https://github.com/leandrowcm/kerberoasting-detection): detecção de Kerberoasting no Elastic, da query ingênua à regra Sigma, com o ponto cego que o dado revelou.
+- [modo-estudo](https://github.com/leandrowcm/modo-estudo): skill para o Claude que troca a resposta pronta por três caminhos para eu escolher.
 
 ## Contato
 
