@@ -1,16 +1,19 @@
-## Hi there 👋
+# Oi, eu sou o Leandro
 
-<!--
-**leandrowcm/leandrowcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em transição para Blue Team/SOC e uso este GitHub para documentar o que estudo e testo no meu lab.
 
-Here are some ideas to get you started:
+Venho da edição de vídeo e do marketing de performance, onde passei anos fazendo testes controlados, isolando variáveis e analisando métricas. É o mesmo raciocínio que tento levar para detecção: olhar o dado, levantar uma hipótese e conferir se a regra pega o que deveria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que estou fazendo agora
+
+- Trilha SOC Level 2 do TryHackMe (a SOC Level 1 concluí em setembro de 2026)
+- Graduação tecnológica em cibersegurança, em andamento
+- Lab local com Elastic para praticar detecção
+
+## Projetos
+
+- [kerberoasting-detection](https://github.com/leandrowcm/kerberoasting-detection): detecção de Kerberoasting no Elastic, da query ingênua à regra Sigma, com o ponto cego que o dado revelou.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/leandrowcm)
